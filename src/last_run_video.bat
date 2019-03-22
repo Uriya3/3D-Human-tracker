@@ -1,0 +1,1 @@
+python run.py --rotate=0 --smooth=1 --camera_fov=60 --camera_focal_len=0.0044 --dst_model=sf --input="D:\StudiesWork\MSC_Project#1\tf-pose-estimation-UL-Reduced\src\videos\Webcam\30.10\5.avi"
