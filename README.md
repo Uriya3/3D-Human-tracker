@@ -12,7 +12,7 @@ using other datasets and evaluating the depth accuracy result by using an accura
 like laser systems.
 
 
-**To run tracker demo:**
+**Run tracker demo:**
 ```
 Run last_run_web.bat
 or
