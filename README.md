@@ -1,5 +1,6 @@
 # 3D-Human-tracker
-*This paper code presents a simple but effective real time system to track multiple individuals in a
+
+This paper code presents a simple but effective real time system to track multiple individuals in a
 3D space from single images using an uncelebrated monocular camera. The proposed system can
 accurately estimate the human skeletons under different type of constraints and inferred its features,
 like body parts orientation and position. It does not require to manually identify skeletal segments
@@ -8,7 +9,7 @@ on an embedded hardware, captured by a simple mounted webcam. The final results 
 by means of accuracy, time data representation efficiency (using key-points instead of an image).
 Future work includes the improvement of the estimation of skeletons in different types of networks,
 using other datasets and evaluating the depth accuracy result by using an accurate reference system
-like laser systems.*
+like laser systems.
 
 
 **To run tracker demo:**
