@@ -1,11 +1,11 @@
 # 3D-Human-tracker
 
 **To run tracker demo:**
-'''
+```
 Run last_run_web.bat
 or
 Run last_run_video.bat
-'''
+```
 
 **Generate dateset from videos (video name is the distance ground truth):**
 '''
