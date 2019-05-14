@@ -11,6 +11,7 @@ Future work includes the improvement of the estimation of skeletons in different
 using other datasets and evaluating the depth accuracy result by using an accurate reference system
 like laser systems.
 
+This project supports Linux & Windows OS:
 
 **Run tracker demo:**
 ```
